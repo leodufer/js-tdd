@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Library curso tdd js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodufer/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "lib"
+  ],
+  "author": "Oscar Duarte <leodufer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leodufer/js-tdd/issues"
+  },
+  "homepage": "https://github.com/leodufer/js-tdd#readme"
+}
