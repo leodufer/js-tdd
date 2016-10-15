@@ -3,7 +3,7 @@ const b = 2;
 const c = 'kjfhaskfhkahdkahkdhakhsdkhakdhakshajgjfgsjdgfjsd';
 
 function sum() {
-  const x = b * a
+  const x = b * a;
   return a + b + c + x;
 }
 
